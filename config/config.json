@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spFxAppIcon/SpFxAppIconWebPart.js",
+      "manifest": "./src/webparts/spFxAppIcon/SpFxAppIconWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-app-icon.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spFxAppIconStrings": "webparts/spFxAppIcon/loc/{locale}.js"
+  }
+}

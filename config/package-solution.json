@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "name": "spfx-app-icon-client-side-solution",
+    "id": "0dd30c25-fc27-4f00-9dba-5bec8e059407",
+    "version": "1.0.0.0",
+    "iconPath": "Images/AppIcon.png"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-app-icon.sppkg"
+  }
+}

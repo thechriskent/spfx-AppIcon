@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "spfx-app-icon",
+    "libraryId": "0dd30c25-fc27-4f00-9dba-5bec8e059407",
+    "environment": "spo"
+  }
+}
